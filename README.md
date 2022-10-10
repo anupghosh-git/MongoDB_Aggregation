@@ -6,4 +6,4 @@
   - $project, $sort, $count, $merge
 - MongoDB can perform complex analysis.
 - Aggregation process is built in stages.
-- outcome can be quaried or stored in another collection($merge)
+- outcome can be quaried or stored in another collection($merge).
